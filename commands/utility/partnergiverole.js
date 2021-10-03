@@ -1,7 +1,7 @@
 const Discord = require('discord.js')
 const { MessageEmbed } = require('discord.js')
 const { partnermanagerrole, partnerrole } = require("../../config/constants/roles.json");
-const { Color, serverID } = require("../../config/constants/other.json")
+const { serverID } = require("../../config/main.json")
 
 
 

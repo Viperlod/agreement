@@ -1,7 +1,7 @@
 const { MessageEmbed } = require('discord.js');
 const Discord = require("discord.js");
 const { suggestchannel } = require("../../config/constants/channel.json");
-const { Color, serverID } = require("../../config/constants/other.json")
+const { serverID } = require("../../config/main.json")
 
 
 module.exports = {
